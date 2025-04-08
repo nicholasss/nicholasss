@@ -1,5 +1,4 @@
-![nicholasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasss&theme=vue&show_icons=true&hide_border=true&layout=compact)
-![nicholasss's Stats](https://github-readme-stats.vercel.app/api?username=nicholasss&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![nicholasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasss&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **nicholasss/nicholasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
