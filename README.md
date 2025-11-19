@@ -4,9 +4,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=apple,windows,debian,arch)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,css,bash,go,html,java,js,ts,lua,powershell,py,swift)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,css,bash,go,html,java,js,ts,lua,powershell,py,swift)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,gcp,git,mongodb,nodejs,npm,postgres,sqlite,vite,vue)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=aws,docker,gcp,git,mongodb,nodejs,npm,postgres,sqlite,vite,vue)](https://skillicons.dev) -->
+
 <!--
 **nicholasss/nicholasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
