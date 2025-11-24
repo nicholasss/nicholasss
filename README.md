@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,obsidian)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,debian,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,debian,arch)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,css,bash,go,html,java,js,ts,lua,powershell,py,swift)](https://skillicons.dev) -->
 
