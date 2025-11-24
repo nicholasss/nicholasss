@@ -1,4 +1,4 @@
-![nicholasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasss&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<!-- ![nicholasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasss&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) -->
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,obsidian)](https://skillicons.dev)
 
