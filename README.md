@@ -26,12 +26,10 @@ TODO: write and host my own version of user language ranking:
 I am teaching myself backend via Golang & Node.js, along with PostgreSQL, SQLite3, and MongoDB.
 Always looking for patterns, methods, ideas, etc. that I can use to write better backends.
 
-### Goals:
+### My Current Goals:
 - Comprehensive understanding of Docker and Kubernetes, gained from first-hand use, to orchestrate development of complex or intricate services, either on-prem or cloud.
 - Fundamental understanding of, and experience with, functional backend languages, such as Elixir (BEAM), or Scala (JVM).
 - Utilize a robust CI/CD pipeline, with GH Actions, Jenkins, or Docker, for security auditing, automated testing, coverage tracking, as well as the goal: deployment.
-
-
 
 ### How I Got Here:
 After completing my first GIS Contract, I decided to go a completely different direction. I leaned on my technical experience of Windows and macOS troubleshooting and maintenance, as well as numerous electronic repairs and building gaming PC's. IT Desktop Support.
@@ -44,15 +42,15 @@ Just as my early skills began to form, a family emergency necessitated major cha
 
 ---
 
-### My Approach to AI Tools:
+### My Approach to LLM Tools:
 
 #### *I'm studying how to write better software.* It's important to make solutions that I can understand and apply elsewhere.
 
-In order to reach my goal of being a well-rounded backend software engineer, I do not utilize AI in order to take shortcuts. If I were to utilize AI to write code on my behalf, analyze problems, or interpret an error message, I am only robbing myself of the opportunity to improve my skills.
-
-Of course I utilize AI these days as an aspiring programmer. My approach is to take pride in both comprehensively understanding the challenges I face, and creating a satisfying and robust solution.
+In order to reach my goal of being a well-rounded backend software engineer, I do not utilize LLM tools for taking shortcuts. If I were to utilize an LLM to write code on my behalf, analyze problems, or interpret an error message, I am only robbing myself of the opportunity to improve my skills.
 
 For me, the best opporunities are interesting and complex challenges that let you learn from your mistakes. Each challenge is a chance to build skills and an enchanced understanding of the problem itself.
+
+I take pride in both comprehensively understanding the challenges I face, and creating a satisfying and robust solution. And so, when I do use an LLM, it is to futher those goals.
 
 ---
 
