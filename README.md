@@ -26,7 +26,7 @@ TODO: write and host my own version of user language ranking:
 I am teaching myself backend via Golang & Node.js, along with PostgreSQL, SQLite3, and MongoDB.
 Always looking for patterns, methods, ideas, etc. that I can use to write better backends.
 
-### Career Goals:
+### Goals:
 - Comprehensive understanding of Docker and Kubernetes, gained from first-hand use, to orchestrate development of complex or intricate services, either on-prem or cloud.
 - Fundamental understanding of, and experience with, functional backend languages, such as Elixir (BEAM), or Scala (JVM).
 - Utilize a robust CI/CD pipeline, with GH Actions, Jenkins, or Docker, for security auditing, automated testing, coverage tracking, as well as the goal: deployment.
