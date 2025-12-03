@@ -4,7 +4,7 @@ TODO: write and host my own version of user language ranking:
 ![nicholasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasss&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 -->
 ```txt
-=> Aspiring to be a *well-rounded* Backend Software Engineer.
+=> Aspire to be a *well-rounded* Backend Software Engineer.
 => Driven to solve complex problems and build tools that empower others.
 ```
 
