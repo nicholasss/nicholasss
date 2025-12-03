@@ -62,8 +62,8 @@ For me, the best opporunities are interesting and complex challenges that let yo
 ---
 
 ### Fun Facts:
-I am an A2 to B1 in German, and just started learning Spanish as well.
-I graduated with a degree in Geography and am proficient in GIS, which would explain why I am a regular contributer to OpenStreetMap. :)
+- I am an A2 to B1 in German, and just started learning Spanish as well.
+- I graduated with a degree in Geography and am proficient in GIS, which would explain why I am a regular contributer to OpenStreetMap. :)
 
 ---
 
