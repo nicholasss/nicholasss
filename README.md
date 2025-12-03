@@ -1,24 +1,24 @@
 <!-- ![nicholasss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasss&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) -->
 
+Aspiring to be a well-rounded Backend Web Software Engineer.
+
 [![My Skills](https://skillicons.dev/icons?i=neovim,obsidian)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=apple,debian,arch)](https://skillicons.dev)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=c,css,bash,go,html,java,js,ts,lua,powershell,py,swift)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=c,css,bash,go,html,js,ts,py)](https://skillicons.dev) -->
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=aws,docker,gcp,git,mongodb,nodejs,npm,postgres,sqlite,vite,vue)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,nodejs,postgres,sqlite,mongodb)](https://skillicons.dev) -->
 
-<!--
-**nicholasss/nicholasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Study:
+I am teaching myself backend via Golang & Node.js, along with PostgreSQL, SQLite3, and MongoDB.
+Always looking for patterns, methods, ideas, etc. that I can use to write better backends.
 
-Here are some ideas to get you started:
+## Fun Fact:
+I am an A2 to B1 in German, and just started learning Spanish as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me:
+Please reach out if:
+- You want to talk about programming
+- You are interested in working together
+- You need an eager young engineer who is hungry for experience
