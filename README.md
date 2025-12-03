@@ -16,7 +16,7 @@ Aspiring to be a *well-rounded* Backend Software Engineer.
 
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=go,py,bash,zsh,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,py,bash,js,ts)](https://skillicons.dev)
 
 ## Currently:
 I am teaching myself backend via Golang & Node.js, along with PostgreSQL, SQLite3, and MongoDB.
