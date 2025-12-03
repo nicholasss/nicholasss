@@ -41,7 +41,7 @@ I loved the complex problems and creating, providing, and surfacing solutions. I
 
 For the longest time, it was an interest or hobby, I had dabbled in it before. Trying to make an app, write a script, or automate workflows. The unmotivated interest quickly compounded into a mature passion. Before I knew it, I was spending two hours programming every morning.
 
-Just as my early skills began to form, a family emergency necessitated major changes and hard decisions. I choose this moment to actively pursue my long-standing passion for programming.
+Just as my early skills began to form, a family emergency necessitated major changes and hard decisions. I choose this moment to actively pursue my long-standing passion for programming, and I am extremely thankful to my wife and family who have encouraged and supported me.
 
 ## My Approach to AI Tools:
 In order to reach my goal of being a well-rounded backend software engineer, I do not utilize AI in order to take shortcuts. If I were to utilize AI to write code on my behalf, analyze problems, or interpret an error message, I am only robbing myself of the opportunity to improve my skills.
