@@ -65,6 +65,9 @@ I graduated with a degree in Geography and am proficient in GIS, which would exp
 
 ---
 
+![GitHub file size in bytes](https://img.shields.io/github/size/nicholasss/nicholasss/README.md?branch=main&style=for-the-badge&logoSize=auto&label=README.md&color=forestgreen)
+---
+
 ### Contact me:
 Please reach out if you ...
 - Have an interesting challenge
