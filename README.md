@@ -38,7 +38,7 @@ Always looking for patterns, methods, ideas, etc. that I can use to write better
 - GIS & Maps
 - Cooking & Baking
 
-### History:
+### How I Got Here:
 After completing my first GIS Contract, I decided to go a completely different direction. I leaned on my technical experience of Windows and macOS troubleshooting and maintenance, as well as numerous electronic repairs and building gaming PC's. IT Desktop Support.
 
 I loved the complex problems and creating, providing, and surfacing solutions. It was a job that fundamentally enabled daily work, reduced friction, and supported organizational successes. However, the longer I worked in IT, the most interested I became in programming...
@@ -58,6 +58,8 @@ In order to reach my goal of being a well-rounded backend software engineer, I d
 Of course I utilize AI these days as an aspiring programmer. My approach is to take pride in both comprehensively understanding the challenges I face, and creating a satisfying and robust solution.
 
 For me, the best opporunities are interesting and complex challenges that let you learn from your mistakes. Each challenge is a chance to build skills and an enchanced understanding of the problem itself.
+
+---
 
 ### Fun Facts:
 I am an A2 to B1 in German, and just started learning Spanish as well.
