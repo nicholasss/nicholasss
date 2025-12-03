@@ -31,12 +31,7 @@ Always looking for patterns, methods, ideas, etc. that I can use to write better
 - Fundamental understanding of, and experience with, functional backend languages, such as Elixir (BEAM), or Scala (JVM).
 - Utilize a robust CI/CD pipeline, with GH Actions, Jenkins, or Docker, for security auditing, automated testing, coverage tracking, as well as the goal: deployment.
 
-### Hobbies & Interests
-- Electronics
-- Mathematics
-- Computer Keyboards
-- GIS & Maps
-- Cooking & Baking
+
 
 ### How I Got Here:
 After completing my first GIS Contract, I decided to go a completely different direction. I leaned on my technical experience of Windows and macOS troubleshooting and maintenance, as well as numerous electronic repairs and building gaming PC's. IT Desktop Support.
@@ -61,7 +56,14 @@ For me, the best opporunities are interesting and complex challenges that let yo
 
 ---
 
-### Fun Facts:
+### Hobbies & Interests
+- Electronics
+- Mathematics
+- Computer Keyboards
+- GIS & Maps
+- Cooking & Baking
+
+### More about me:
 - I am an A2 to B1 in German, and just started learning Spanish as well.
 - I graduated with a degree in Geography and am proficient in GIS, which would explain why I am a regular contributer to OpenStreetMap. :)
 
