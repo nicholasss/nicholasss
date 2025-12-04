@@ -62,7 +62,7 @@ I take pride in both comprehensively understanding the challenges I face, and cr
 - Cooking & Baking
 
 ### More about me:
-- I am an A2 to B1 in German, and just started learning Spanish as well.
+- I am an B1 in German, and just started learning Spanish.
 - I graduated with a degree in Geography and am proficient in GIS, which would explain why I am a regular contributer to OpenStreetMap. :)
 
 ---
