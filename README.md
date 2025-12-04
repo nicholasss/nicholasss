@@ -32,13 +32,13 @@ Always looking for patterns, methods, ideas, etc. that I can use to write better
 - Utilize a robust CI/CD pipeline, with GH Actions, Jenkins, or Docker, for security auditing, automated testing, coverage tracking, as well as the goal: deployment.
 
 ### How I Got Here:
-After completing my first GIS Contract, I decided to go a completely different direction. I leaned on my technical experience of Windows and macOS troubleshooting and maintenance, as well as numerous electronic repairs and building gaming PC's. IT Desktop Support.
+After completing my first GIS Contract, I decided to go in a completely different direction. I leaned on my technical experience of Windows and macOS troubleshooting and maintenance, as well as numerous electronic repairs and building gaming PCs. IT Desktop Support.
 
-I loved the complex problems and creating, providing, and surfacing solutions. It was a job that fundamentally enabled daily work, reduced friction, and supported organizational successes. However, the longer I worked in IT, the most interested I became in programming...
+I loved the complex problems and creating, providing, and surfacing solutions. It was a job that fundamentally enabled daily work, reduced friction, and supported organizational successes. However, the longer I worked in IT, the more interested I became in programming...
 
-For the longest time, it was an interest or hobby, I had dabbled in it before. Trying to make an app, write a script, or automate workflows. The unmotivated interest quickly compounded into a mature passion. Before I knew it, I was spending two hours programming every morning.
+For the longest time, it was more of a hobby. I had dabbled in it before. Trying to make an app, write a script, or automate workflows. The casual interest quickly compounded into a mature passion. Before I knew it, I was spending two hours programming every morning.
 
-Just as my early skills began to form, a family emergency necessitated major changes and hard decisions. I choose this moment to actively pursue my long-standing passion for programming, and I am extremely thankful to my wife and family who have encouraged and supported me.
+Just as my early skills began to form, a family emergency necessitated major changes and hard decisions. I chose this moment to actively pursue my long-standing passion for programming, and I am extremely thankful to my wife and family who have encouraged and supported me.
 
 ---
 
@@ -48,9 +48,9 @@ Just as my early skills began to form, a family emergency necessitated major cha
 
 In order to reach my goal of being a well-rounded backend software engineer, I do not utilize LLM tools for taking shortcuts. If I were to utilize an LLM to write code on my behalf, analyze problems, or interpret an error message, I am only robbing myself of the opportunity to improve my skills.
 
-For me, the best opporunities are interesting and complex challenges that let you learn from your mistakes. Each challenge is a chance to build skills and an enchanced understanding of the problem itself.
+For me, the best opportunities are interesting and complex challenges that let you learn from your mistakes. Each challenge is a chance to build skills and an enhanced understanding of the problem itself.
 
-I take pride in both comprehensively understanding the challenges I face, and creating a satisfying and robust solution. And so, when I do use an LLM, it is to futher those goals.
+I take pride in both comprehensively understanding the challenges I face, and creating a satisfying and robust solution. And so, when I do use an LLM, it is to further those goals.
 
 ---
 
@@ -62,8 +62,8 @@ I take pride in both comprehensively understanding the challenges I face, and cr
 - Cooking & Baking
 
 ### More about me:
-- I am an B1 in German, and just started learning Spanish.
-- I graduated with a degree in Geography and am proficient in GIS, which would explain why I am a regular contributer to OpenStreetMap. :)
+- I am a B1 in German, and just started learning Spanish.
+- I graduated with a degree in Geography and am proficient in GIS, which would explain why I am a regular contributor to OpenStreetMap. :)
 
 ---
 
